@@ -1,0 +1,18 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "description": "algorithms for finding height/depth of a tree and array rotation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "veerender voskula",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
